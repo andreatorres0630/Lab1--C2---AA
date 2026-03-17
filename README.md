@@ -4,7 +4,7 @@
 
 -Alejandra María Baires Campos
 
-**🐾 Sistema de Gestión Veterinaria (MagicPet)**
+**Sistema de Gestión Veterinaria (MagicPet)🐾**
 
 **Situación problemática**
 
